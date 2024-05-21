@@ -1,4 +1,4 @@
-<Structures_CRF xmlns="http://www.w3.org/2010/xhtml" lang="fr" xml:lang="fr">
+<Structures_CRF lang="fr" xml:lang="fr">
     <Structure>
         <Code_Structure>1</Code_Structure>
         <Libelle_Structure>INSTANCES NATIONALES</Libelle_Structure>
@@ -70,7 +70,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Halte répit détente Alzheimer</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -115,7 +115,7 @@
                 <Action>Action prisons justice</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Logement temporaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -784,7 +784,7 @@
         <Actions_Structure>
             <Groupe_Actions>
                 Actions Sociales
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -1049,7 +1049,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -1194,7 +1194,7 @@
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Entrepôt pour aides matérielles</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -1384,7 +1384,7 @@
                 Actions Sociales
                 <Action>Accueil et orientation</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -1469,7 +1469,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Hébergement d'urgence</Action>
                 <Action>Microcrédit</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -1853,7 +1853,7 @@
                 <Action>Hébergement d'urgence</Action>
                 <Action>Insertion professionnelle</Action>
                 <Action>Logement temporaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -1906,7 +1906,7 @@
                 <Action>Domiciliation administrative</Action>
                 <Action>Insertion professionnelle</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -2008,7 +2008,7 @@
             <Groupe_Actions>
                 Actions Sociales
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -2078,7 +2078,7 @@
         <Actions_Structure>
             <Groupe_Actions>
                 Actions Sociales
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -2641,7 +2641,7 @@
                 <Action>Accueil de jour (espace solidarité)</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Gestion du 115</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -2684,7 +2684,7 @@
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Jeunesse
@@ -2757,7 +2757,7 @@
                 <Action>Action prisons justice</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Entrepôt pour aides matérielles</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -3050,7 +3050,7 @@
                 <Action>Distribution de chèques</Action>
                 <Action>Hébergement d'urgence</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -3110,7 +3110,7 @@
     </Structure>
     <Structure>
         <Code_Structure>99</Code_Structure>
-        <Libelle_Structure>DD DU  VAL-DE-MARNE</Libelle_Structure>
+        <Libelle_Structure>DD DU VAL-DE-MARNE</Libelle_Structure>
         <adresse_Structure>2 Rue ALBERT GARRY</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -3205,7 +3205,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97139</CP_Structure>
         <Ville_Structure>LES ABYMES</Ville_Structure>
-        <Tel_Structure>+33  590 82 12 21</Tel_Structure>
+        <Tel_Structure>+33 590 82 12 21</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>DELEGATION TERRITORIALE</Type_Structure>
         <Siret_Structure>77567227230154</Siret_Structure>
@@ -3253,7 +3253,7 @@
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Epicerie Sociale</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -3276,7 +3276,7 @@
         <LieuDit_Structure/>
         <CP_Structure>98800</CP_Structure>
         <Ville_Structure>NOUMEA</Ville_Structure>
-        <Tel_Structure>+33  687 27 23 40</Tel_Structure>
+        <Tel_Structure>+33 687 27 23 40</Tel_Structure>
         <Web_Structure>nouvellecaledonie.croix-rouge.fr</Web_Structure>
         <Type_Structure>DELEGATION TERRITORIALE</Type_Structure>
         <Siret_Structure/>
@@ -3290,7 +3290,7 @@
                 <Action>Action prisons justice</Action>
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -3518,7 +3518,7 @@
                 <Action>Accueil et orientation</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Domiciliation administrative</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -3940,7 +3940,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -4140,7 +4140,7 @@
                 <Action>Action auprès des réfugiés/migrants sur territ. fr</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -4279,7 +4279,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -4440,7 +4440,7 @@
     </Structure>
     <Structure>
         <Code_Structure>203</Code_Structure>
-        <Libelle_Structure>MAISON DU PAYS DE PHOEBUS </Libelle_Structure>
+        <Libelle_Structure>MAISON DU PAYS DE PHOEBUS</Libelle_Structure>
         <adresse_Structure>11 Boulevard ALSACE LORRAINE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -4716,7 +4716,7 @@
     </Structure>
     <Structure>
         <Code_Structure>212</Code_Structure>
-        <Libelle_Structure>ESPACE DE  BAR SUR SEINE</Libelle_Structure>
+        <Libelle_Structure>ESPACE DE BAR SUR SEINE</Libelle_Structure>
         <adresse_Structure>2 Rue DU PINCHINAT</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -4890,7 +4890,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Espace bébé maman</Action>
                 <Action>Point alimentaire bébé</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -5333,7 +5333,7 @@
     <Structure>
         <Code_Structure>233</Code_Structure>
         <Libelle_Structure>MAISON D'ISTRES</Libelle_Structure>
-        <adresse_Structure>66 Avenue  Guynemer</adresse_Structure>
+        <adresse_Structure>66 Avenue Guynemer</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>13800</CP_Structure>
@@ -5585,7 +5585,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -5687,7 +5687,7 @@
                 <Action>Entrepôt pour aides matérielles</Action>
                 <Action>Espace bébé maman</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -5815,7 +5815,7 @@
     </Structure>
     <Structure>
         <Code_Structure>252</Code_Structure>
-        <Libelle_Structure>ESPACE  AUNAY PRE BOCAGE</Libelle_Structure>
+        <Libelle_Structure>ESPACE AUNAY PRE BOCAGE</Libelle_Structure>
         <adresse_Structure>Rue LEROQUAIS</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure>MAIRIE D'AUNAY SUR AUDON</LieuDit_Structure>
@@ -5976,7 +5976,7 @@
                 Actions Sociales
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -7399,7 +7399,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Hébergement d'urgence</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -7605,7 +7605,7 @@
                 <Action>Epicerie Sociale</Action>
                 <Action>Espace bébé maman</Action>
                 <Action>Hébergement d'urgence</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -7943,7 +7943,7 @@
                 <Action>Actions auprès des personnes âgées</Action>
                 <Action>Hébergement d'urgence</Action>
                 <Action>Logement temporaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -8144,7 +8144,7 @@
                 <Action>Epicerie Sociale</Action>
                 <Action>Hébergement d'urgence</Action>
                 <Action>Point Hygiène</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -8712,7 +8712,7 @@
                 <Action>Aides financières</Action>
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -8976,7 +8976,7 @@
                 <Action>Distribution de chèques</Action>
                 <Action>Domiciliation administrative</Action>
                 <Action>Point alimentaire bébé</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>RLF</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiboutique</Action>
@@ -9325,7 +9325,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -9343,7 +9343,7 @@
     </Structure>
     <Structure>
         <Code_Structure>488</Code_Structure>
-        <Libelle_Structure>ESPACE  EST TOURANGEAU-BLERE-VOUVRILLON</Libelle_Structure>
+        <Libelle_Structure>ESPACE EST TOURANGEAU-BLERE-VOUVRILLON</Libelle_Structure>
         <adresse_Structure>56 Rue de Loches</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -9384,7 +9384,7 @@
                 <Action>Aides financières</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Epicerie Sociale</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -9487,7 +9487,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Epicerie Sociale</Action>
                 <Action>Hébergement d'urgence</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -9534,7 +9534,7 @@
                 <Action>Espace bébé maman</Action>
                 <Action>Insertion professionnelle</Action>
                 <Action>Point alimentaire bébé</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -10053,7 +10053,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Entrepôt pour aides matérielles</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -10275,7 +10275,7 @@
                 <Action>Aides financières</Action>
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -10316,7 +10316,7 @@
                 <Action>Actions auprès des personnes âgées</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -10456,7 +10456,7 @@
             <Groupe_Actions>
                 Actions Sociales
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -10535,7 +10535,7 @@
                 <Action>Action prisons justice</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -10603,7 +10603,7 @@
     </Structure>
     <Structure>
         <Code_Structure>569</Code_Structure>
-        <Libelle_Structure>ANTENNE LOCALE DE MONTARGIS-PITHIVIERS </Libelle_Structure>
+        <Libelle_Structure>ANTENNE LOCALE DE MONTARGIS-PITHIVIERS</Libelle_Structure>
         <adresse_Structure>105 Rue COQUILLET</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -10985,7 +10985,7 @@
         <Code_Structure>590</Code_Structure>
         <Libelle_Structure>ESPACE DE TONNEINS</Libelle_Structure>
         <adresse_Structure>Rue SAINTE-CROIX</adresse_Structure>
-        <Adresse_Cplt_Structure>IMMEUBLE DE TAPOL </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>IMMEUBLE DE TAPOL</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>47400</CP_Structure>
         <Ville_Structure>TONNEINS</Ville_Structure>
@@ -12103,7 +12103,7 @@
                 <Action>Aides financières</Action>
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -12324,7 +12324,7 @@
         <Libelle_Structure>ESPACE DE BROCELIANDE</Libelle_Structure>
         <adresse_Structure>Parc d'activités du Bois Vert</adresse_Structure>
         <Adresse_Cplt_Structure>Maison des solidarités</Adresse_Cplt_Structure>
-        <LieuDit_Structure>rue Barthélémy Thimonier </LieuDit_Structure>
+        <LieuDit_Structure>rue Barthélémy Thimonier</LieuDit_Structure>
         <CP_Structure>56800</CP_Structure>
         <Ville_Structure>PLOERMEL</Ville_Structure>
         <Tel_Structure>+33 2 97 74 31 66</Tel_Structure>
@@ -12530,7 +12530,7 @@
         <LieuDit_Structure/>
         <CP_Structure>57500</CP_Structure>
         <Ville_Structure>ST AVOLD</Ville_Structure>
-        <Tel_Structure>+33 3 87 92 32 62 </Tel_Structure>
+        <Tel_Structure>+33 3 87 92 32 62</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -13078,7 +13078,7 @@
                 Actions Sociales
                 <Action>Aides financières</Action>
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -13147,7 +13147,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Domiciliation administrative</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -13439,7 +13439,7 @@
                 <Action>Accueil et orientation</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -13597,7 +13597,7 @@
         <LieuDit_Structure/>
         <CP_Structure>60110</CP_Structure>
         <Ville_Structure>MERU</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure>77567227216914</Siret_Structure>
@@ -13921,7 +13921,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Halte répit détente Alzheimer</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -14035,7 +14035,7 @@
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -14147,7 +14147,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Halte répit détente Alzheimer</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -14374,7 +14374,7 @@
         <Code_Structure>778</Code_Structure>
         <Libelle_Structure>ESPACE D'HASPARREN</Libelle_Structure>
         <adresse_Structure>11 Rue GASCOINA</adresse_Structure>
-        <Adresse_Cplt_Structure>M.S.P.  Elgar</Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>M.S.P. Elgar</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>64240</CP_Structure>
         <Ville_Structure>HASPARREN</Ville_Structure>
@@ -14771,7 +14771,7 @@
         <LieuDit_Structure/>
         <CP_Structure>67170</CP_Structure>
         <Ville_Structure>BRUMATH</Ville_Structure>
-        <Tel_Structure> 06 48 28 59 23</Tel_Structure>
+        <Tel_Structure>06 48 28 59 23</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -15346,7 +15346,7 @@
                 <Action>Action auprès des réfugiés/migrants sur territ. fr</Action>
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Espace bébé maman</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -15379,7 +15379,7 @@
         <Actions_Structure>
             <Groupe_Actions>
                 Actions Sociales
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Jeunesse
@@ -15723,7 +15723,7 @@
     <Structure>
         <Code_Structure>848</Code_Structure>
         <Libelle_Structure>ESPACE DE LUXEUIL LES BAINS</Libelle_Structure>
-        <adresse_Structure>Rue  DU SERGENT BONNOT</adresse_Structure>
+        <adresse_Structure>Rue DU SERGENT BONNOT</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>70300</CP_Structure>
@@ -15938,7 +15938,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Epicerie Sociale</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Soutien aux activités
@@ -16519,7 +16519,7 @@
                 Actions Sociales
                 <Action>Accueil et orientation</Action>
                 <Action>Action prisons justice</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -16604,7 +16604,7 @@
         <LieuDit_Structure/>
         <CP_Structure>74200</CP_Structure>
         <Ville_Structure>ANTHY SUR LEMAN</Ville_Structure>
-        <Tel_Structure>+33 4 57 26 45 79 </Tel_Structure>
+        <Tel_Structure>+33 4 57 26 45 79</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure>77567227224009</Siret_Structure>
@@ -17119,7 +17119,7 @@
         <LieuDit_Structure/>
         <CP_Structure>75017</CP_Structure>
         <Ville_Structure>PARIS 17</Ville_Structure>
-        <Tel_Structure>+33 1 46 22 02 09 </Tel_Structure>
+        <Tel_Structure>+33 1 46 22 02 09</Tel_Structure>
         <Web_Structure>paris17.croix-rouge.fr</Web_Structure>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure>77567227218118</Siret_Structure>
@@ -17360,7 +17360,7 @@
                 <Action>Action prisons justice</Action>
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -18302,7 +18302,7 @@
                 <Action>Distribution de chèques</Action>
                 <Action>Epicerie Sociale</Action>
                 <Action>Gestion du 115</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -19069,7 +19069,7 @@
         <LieuDit_Structure/>
         <CP_Structure>82500</CP_Structure>
         <Ville_Structure>BEAUMONT DE LOMAGNE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -19457,7 +19457,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1041</Code_Structure>
-        <Libelle_Structure>MAISON DU  HAUT VAUCLUSE</Libelle_Structure>
+        <Libelle_Structure>MAISON DU HAUT VAUCLUSE</Libelle_Structure>
         <adresse_Structure>158 Avenue DU MARECHAL LECLERC</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -19528,7 +19528,7 @@
         <Code_Structure>1044</Code_Structure>
         <Libelle_Structure>MAISON DE SORGUE / DURANCE</Libelle_Structure>
         <adresse_Structure>Route de Caumont</adresse_Structure>
-        <Adresse_Cplt_Structure>13 ZA les Théologiens </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>13 ZA les Théologiens</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>84800</CP_Structure>
         <Ville_Structure>L ISLE SUR LA SORGUE</Ville_Structure>
@@ -19725,7 +19725,7 @@
                 <Action>Distribution de chèques</Action>
                 <Action>Espace bébé maman</Action>
                 <Action>Microcrédit</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -21302,7 +21302,7 @@
         <LieuDit_Structure/>
         <CP_Structure>92190</CP_Structure>
         <Ville_Structure>MEUDON</Ville_Structure>
-        <Tel_Structure>+33 1 45 07 23 60 </Tel_Structure>
+        <Tel_Structure>+33 1 45 07 23 60</Tel_Structure>
         <Web_Structure>meudon.croix-rouge.fr</Web_Structure>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure>77567227230956</Siret_Structure>
@@ -21914,7 +21914,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1197</Code_Structure>
-        <Libelle_Structure>MAISON DE PANTIN  LE PRE SAINT GERVAIS</Libelle_Structure>
+        <Libelle_Structure>MAISON DE PANTIN LE PRE SAINT GERVAIS</Libelle_Structure>
         <adresse_Structure>28 Rue MEHUL</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -22309,7 +22309,7 @@
         <Actions_Structure>
             <Groupe_Actions>
                 Actions Sociales
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -22467,7 +22467,7 @@
         <LieuDit_Structure/>
         <CP_Structure>94100</CP_Structure>
         <Ville_Structure>ST MAUR DES FOSSES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure>saintmaur.croix-rouge.fr</Web_Structure>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -22562,7 +22562,7 @@
     <Structure>
         <Code_Structure>1244</Code_Structure>
         <Libelle_Structure>MAISON DU VAL DE SEINE</Libelle_Structure>
-        <adresse_Structure>70 Rue  ALFRED LABRIERE</adresse_Structure>
+        <adresse_Structure>70 Rue ALFRED LABRIERE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>95100</CP_Structure>
@@ -22907,7 +22907,7 @@
         <LieuDit_Structure>VAININIORE</LieuDit_Structure>
         <CP_Structure>98714</CP_Structure>
         <Ville_Structure>PAPEETE</Ville_Structure>
-        <Tel_Structure>+33  689 42 02 76</Tel_Structure>
+        <Tel_Structure>+33 689 42 02 76</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>DELEGATION TERRITORIALE</Type_Structure>
         <Siret_Structure/>
@@ -22922,7 +22922,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97605</CP_Structure>
         <Ville_Structure>MAMOUDZOU</Ville_Structure>
-        <Tel_Structure>+33  269 63 20 39</Tel_Structure>
+        <Tel_Structure>+33 269 63 20 39</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>DELEGATION TERRITORIALE</Type_Structure>
         <Siret_Structure>77567227230519</Siret_Structure>
@@ -22933,7 +22933,7 @@
                 Actions Sociales
                 <Action>Distribution Alimentaire</Action>
                 <Action>Insertion professionnelle</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
@@ -23478,7 +23478,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1418</Code_Structure>
-        <Libelle_Structure>SAAD PRESTATAIRE  DU NORD - ANTENNE DE TOURCOING</Libelle_Structure>
+        <Libelle_Structure>SAAD PRESTATAIRE DU NORD - ANTENNE DE TOURCOING</Libelle_Structure>
         <adresse_Structure>2 Rue DE LA VIGNE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -23674,7 +23674,7 @@
     <Structure>
         <Code_Structure>1464</Code_Structure>
         <Libelle_Structure>SAAD PRESTATAIRE DE MODANE</Libelle_Structure>
-        <adresse_Structure>135  Rue Paul Bert</adresse_Structure>
+        <adresse_Structure>135 Rue Paul Bert</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>73500</CP_Structure>
@@ -24024,7 +24024,7 @@
         <LieuDit_Structure/>
         <CP_Structure>78500</CP_Structure>
         <Ville_Structure>SARTROUVILLE</Ville_Structure>
-        <Tel_Structure>+33 1 39 14 44 24 </Tel_Structure>
+        <Tel_Structure>+33 1 39 14 44 24</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231541</Siret_Structure>
@@ -24093,7 +24093,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1571</Code_Structure>
-        <Libelle_Structure>CSP RADIOTHERAPIE SAINT-LOUIS </Libelle_Structure>
+        <Libelle_Structure>CSP RADIOTHERAPIE SAINT-LOUIS</Libelle_Structure>
         <adresse_Structure>Rue Nicolas Appert</adresse_Structure>
         <Adresse_Cplt_Structure>Quartier Sainte-Musse</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -24474,7 +24474,7 @@
         <LieuDit_Structure/>
         <CP_Structure>98800</CP_Structure>
         <Ville_Structure>NOUMEA</Ville_Structure>
-        <Tel_Structure>+33  687 27 23 40</Tel_Structure>
+        <Tel_Structure>+33 687 27 23 40</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -26478,7 +26478,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1898</Code_Structure>
-        <Libelle_Structure>CENTRE DE CONSULTATIONS ET DE DEPISTAGE DE PARIS </Libelle_Structure>
+        <Libelle_Structure>CENTRE DE CONSULTATIONS ET DE DEPISTAGE DE PARIS</Libelle_Structure>
         <adresse_Structure>43 Rue DE VALOIS</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -26523,7 +26523,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1905</Code_Structure>
-        <Libelle_Structure>SSIAD DE SEINE-MARITIME - ANTENNE DE GOURNAY-EN-BRAY </Libelle_Structure>
+        <Libelle_Structure>SSIAD DE SEINE-MARITIME - ANTENNE DE GOURNAY-EN-BRAY</Libelle_Structure>
         <adresse_Structure>Place D'Armes</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -26538,7 +26538,7 @@
     </Structure>
     <Structure>
         <Code_Structure>1906</Code_Structure>
-        <Libelle_Structure>SSIAD DE SEINE-MARITIME - ANTENNE DU HAVRE </Libelle_Structure>
+        <Libelle_Structure>SSIAD DE SEINE-MARITIME - ANTENNE DU HAVRE</Libelle_Structure>
         <adresse_Structure>22 Place de la Mare au Clerc</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -26874,7 +26874,7 @@
         <LieuDit_Structure/>
         <CP_Structure>84400</CP_Structure>
         <Ville_Structure>APT</Ville_Structure>
-        <Tel_Structure>+33 4 90 74 64 02 </Tel_Structure>
+        <Tel_Structure>+33 4 90 74 64 02</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227220502</Siret_Structure>
@@ -27864,7 +27864,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2087</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP PAYS DE LA LOIRE - LAVAL </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP PAYS DE LA LOIRE - LAVAL</Libelle_Structure>
         <adresse_Structure>6 Rue de la Gare</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -27960,7 +27960,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2099</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP ALSACE - STRASBOURG </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP ALSACE - STRASBOURG</Libelle_Structure>
         <adresse_Structure>30 Rue SCHWEIGHAEUSER</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -28035,7 +28035,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2112</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP PICARDIE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP PICARDIE</Libelle_Structure>
         <adresse_Structure>15 Rue de la Délivrance</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -28196,7 +28196,7 @@
         <LieuDit_Structure/>
         <CP_Structure>54190</CP_Structure>
         <Ville_Structure>VILLERUPT</Ville_Structure>
-        <Tel_Structure> 06 83 80 22 67</Tel_Structure>
+        <Tel_Structure>06 83 80 22 67</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -28290,7 +28290,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2153</Code_Structure>
-        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE BRETIGNY SUR ORGE </Libelle_Structure>
+        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE BRETIGNY SUR ORGE</Libelle_Structure>
         <adresse_Structure>1 Rue du Château de la Fontaine</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -28471,7 +28471,7 @@
         <Code_Structure>2185</Code_Structure>
         <Libelle_Structure>MAISON DES PORTES OCEANES</Libelle_Structure>
         <adresse_Structure>Rue DES TREYTINS</adresse_Structure>
-        <Adresse_Cplt_Structure>HAUTS DE L'HIPPODROME  BATIMENT 2</Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>HAUTS DE L'HIPPODROME BATIMENT 2</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>33320</CP_Structure>
         <Ville_Structure>EYSINES</Ville_Structure>
@@ -28488,7 +28488,7 @@
                 <Action>Accueil famille-enfant</Action>
                 <Action>Apprentissage des savoirs de base</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -28774,7 +28774,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2235</Code_Structure>
-        <Libelle_Structure>SSIAD DE LA SOMME - ANTENNE DE MONTDIDIER </Libelle_Structure>
+        <Libelle_Structure>SSIAD DE LA SOMME - ANTENNE DE MONTDIDIER</Libelle_Structure>
         <adresse_Structure>6 Rue AMAND DE VIENNE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -28972,7 +28972,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2305</Code_Structure>
-        <Libelle_Structure>IRFSS-CFA IDF - PARIS </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CFA IDF - PARIS</Libelle_Structure>
         <adresse_Structure>98 Rue Didot</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -29128,7 +29128,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2328</Code_Structure>
-        <Libelle_Structure>SAMUso DE BOBIGNY </Libelle_Structure>
+        <Libelle_Structure>SAMUso DE BOBIGNY</Libelle_Structure>
         <adresse_Structure>6 Rue DU DOCTEUR ROUX</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -29223,7 +29223,7 @@
                 <Action>Aides financières</Action>
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
@@ -29568,7 +29568,7 @@
     <Structure>
         <Code_Structure>2388</Code_Structure>
         <Libelle_Structure>CHUS D'AVALLON</Libelle_Structure>
-        <adresse_Structure>16 Rue  du Marché</adresse_Structure>
+        <adresse_Structure>16 Rue du Marché</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>89200</CP_Structure>
@@ -29693,7 +29693,7 @@
         <LieuDit_Structure/>
         <CP_Structure>45650</CP_Structure>
         <Ville_Structure>ST JEAN LE BLANC</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227224637</Siret_Structure>
@@ -29702,7 +29702,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2411</Code_Structure>
-        <Libelle_Structure>SERVICE SOCIAL CHARLES DE GAULLE </Libelle_Structure>
+        <Libelle_Structure>SERVICE SOCIAL CHARLES DE GAULLE</Libelle_Structure>
         <adresse_Structure>Rue du Noyer du Chat</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure>ROISSY AEROPORT CH DE GAULLE</LieuDit_Structure>
@@ -29717,7 +29717,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2416</Code_Structure>
-        <Libelle_Structure>CNFS DE MODANE </Libelle_Structure>
+        <Libelle_Structure>CNFS DE MODANE</Libelle_Structure>
         <adresse_Structure>235 Rue DE L'ISLE</adresse_Structure>
         <Adresse_Cplt_Structure>CENTRE DE FORMATION</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -29739,7 +29739,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2440</Code_Structure>
-        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE THIAIS </Libelle_Structure>
+        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE THIAIS</Libelle_Structure>
         <adresse_Structure>111 Boulevard de Stalingrad</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -29784,7 +29784,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2443</Code_Structure>
-        <Libelle_Structure>CHAS HENRY DUNANT </Libelle_Structure>
+        <Libelle_Structure>CHAS HENRY DUNANT</Libelle_Structure>
         <adresse_Structure>25 Avenue MARCEL PAGNOL</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -29799,7 +29799,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2454</Code_Structure>
-        <Libelle_Structure>CHUS LE RELAIS DE THUN </Libelle_Structure>
+        <Libelle_Structure>CHUS LE RELAIS DE THUN</Libelle_Structure>
         <adresse_Structure>26 Avenue Du Maréchal Joffre</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -30470,7 +30470,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2507</Code_Structure>
-        <Libelle_Structure>IRFSS  MIDI PYRENEES</Libelle_Structure>
+        <Libelle_Structure>IRFSS MIDI PYRENEES</Libelle_Structure>
         <adresse_Structure>71 Chemin DES CAPELLES</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -30575,7 +30575,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2522</Code_Structure>
-        <Libelle_Structure>CHUS DE SEINE ET MARNE </Libelle_Structure>
+        <Libelle_Structure>CHUS DE SEINE ET MARNE</Libelle_Structure>
         <adresse_Structure>1 Avenue Victor Thiebault</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -30758,7 +30758,7 @@
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227217821</Siret_Structure>
         <APE_Structure>8810C</APE_Structure>
-        <Activite_Structure>Entreprise adaptée </Activite_Structure>
+        <Activite_Structure>Entreprise adaptée</Activite_Structure>
     </Structure>
     <Structure>
         <Code_Structure>2536</Code_Structure>
@@ -30906,7 +30906,7 @@
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227220809</Siret_Structure>
         <APE_Structure>8810C</APE_Structure>
-        <Activite_Structure>Entreprise adaptée </Activite_Structure>
+        <Activite_Structure>Entreprise adaptée</Activite_Structure>
     </Structure>
     <Structure>
         <Code_Structure>2548</Code_Structure>
@@ -30925,7 +30925,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2550</Code_Structure>
-        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE VILLEJUIF </Libelle_Structure>
+        <Libelle_Structure>CENTRE D'HEBERGEMENT DE STABILISATION DE VILLEJUIF</Libelle_Structure>
         <adresse_Structure>56 Avenue de la République</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -31280,7 +31280,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2575</Code_Structure>
-        <Libelle_Structure>PERMANENCE D'ASSISTANCE ET D'URGENCE HUMANITAIRE ROISSY </Libelle_Structure>
+        <Libelle_Structure>PERMANENCE D'ASSISTANCE ET D'URGENCE HUMANITAIRE ROISSY</Libelle_Structure>
         <adresse_Structure>Rue du Noyer du Chat</adresse_Structure>
         <Adresse_Cplt_Structure>ZAPI 3</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -31325,7 +31325,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2579</Code_Structure>
-        <Libelle_Structure>PERMANENCE ACCUEIL ETRANGERS SORTANT ZONE D'ATTENTE ROISSY </Libelle_Structure>
+        <Libelle_Structure>PERMANENCE ACCUEIL ETRANGERS SORTANT ZONE D'ATTENTE ROISSY</Libelle_Structure>
         <adresse_Structure>Zone Aérogare 1</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure>ROISSY AEROPORT CH DE GAULLE</LieuDit_Structure>
@@ -31415,7 +31415,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2592</Code_Structure>
-        <Libelle_Structure>IRFSS-FI PAYS DE LA LOIRE - REZE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-FI PAYS DE LA LOIRE - REZE</Libelle_Structure>
         <adresse_Structure>6 Rue de la Gare</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -31490,7 +31490,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2598</Code_Structure>
-        <Libelle_Structure>CHUS DE BRETIGNY </Libelle_Structure>
+        <Libelle_Structure>CHUS DE BRETIGNY</Libelle_Structure>
         <adresse_Structure>1 Rue du Château de la Fontaine</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -31520,7 +31520,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2600</Code_Structure>
-        <Libelle_Structure>MULTI-ACCUEIL COLLECTIF L'ILOT TRESORS </Libelle_Structure>
+        <Libelle_Structure>MULTI-ACCUEIL COLLECTIF L'ILOT TRESORS</Libelle_Structure>
         <adresse_Structure>32 Avenue de Spicheren</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -31800,7 +31800,7 @@
         <LieuDit_Structure/>
         <CP_Structure>19400</CP_Structure>
         <Ville_Structure>ARGENTAT</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31815,7 +31815,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01150</CP_Structure>
         <Ville_Structure>LAGNIEU</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31851,7 +31851,7 @@
         <LieuDit_Structure/>
         <CP_Structure>30390</CP_Structure>
         <Ville_Structure>ARAMON</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31866,7 +31866,7 @@
         <LieuDit_Structure/>
         <CP_Structure>30150</CP_Structure>
         <Ville_Structure>ROQUEMAURE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31881,7 +31881,7 @@
         <LieuDit_Structure/>
         <CP_Structure>30131</CP_Structure>
         <Ville_Structure>PUJAUT</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31896,7 +31896,7 @@
         <LieuDit_Structure/>
         <CP_Structure>13127</CP_Structure>
         <Ville_Structure>VITROLLES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31911,7 +31911,7 @@
         <LieuDit_Structure/>
         <CP_Structure>13340</CP_Structure>
         <Ville_Structure>ROGNAC</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31926,7 +31926,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66700</CP_Structure>
         <Ville_Structure>ARGELES SUR MER</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31941,7 +31941,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66190</CP_Structure>
         <Ville_Structure>COLLIOURE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31956,7 +31956,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66660</CP_Structure>
         <Ville_Structure>PORT VENDRES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31971,7 +31971,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66650</CP_Structure>
         <Ville_Structure>BANYULS SUR MER</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -31980,13 +31980,13 @@
     </Structure>
     <Structure>
         <Code_Structure>2632</Code_Structure>
-        <Libelle_Structure>EQUIPE LOCALE D'AMELIE LES BAINS </Libelle_Structure>
+        <Libelle_Structure>EQUIPE LOCALE D'AMELIE LES BAINS</Libelle_Structure>
         <adresse_Structure>5 Rue des Thermes</adresse_Structure>
         <Adresse_Cplt_Structure>Mairie</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>66110</CP_Structure>
         <Ville_Structure>AMELIE LES BAINS PALALDA</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32001,7 +32001,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66150</CP_Structure>
         <Ville_Structure>ARLES SUR TECH</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32016,7 +32016,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66400</CP_Structure>
         <Ville_Structure>CERET</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32031,7 +32031,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66320</CP_Structure>
         <Ville_Structure>VINCA</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32046,7 +32046,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66500</CP_Structure>
         <Ville_Structure>PRADES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32061,7 +32061,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66760</CP_Structure>
         <Ville_Structure>BOURG MADAME</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32076,7 +32076,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66000</CP_Structure>
         <Ville_Structure>PERPIGNAN</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32091,7 +32091,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66670</CP_Structure>
         <Ville_Structure>BAGES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32106,7 +32106,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66430</CP_Structure>
         <Ville_Structure>BOMPAS</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32121,7 +32121,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66140</CP_Structure>
         <Ville_Structure>CANET EN ROUSSILLON</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32136,7 +32136,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66000</CP_Structure>
         <Ville_Structure>PERPIGNAN</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32151,7 +32151,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66560</CP_Structure>
         <Ville_Structure>ORTAFFA</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32166,7 +32166,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66450</CP_Structure>
         <Ville_Structure>POLLESTRES</Ville_Structure>
-        <Tel_Structure>+33 4 68 34 48 16 </Tel_Structure>
+        <Tel_Structure>+33 4 68 34 48 16</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32188,7 +32188,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66750</CP_Structure>
         <Ville_Structure>ST CYPRIEN</Ville_Structure>
-        <Tel_Structure>+33 4 68 34 48 16 </Tel_Structure>
+        <Tel_Structure>+33 4 68 34 48 16</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32210,7 +32210,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66240</CP_Structure>
         <Ville_Structure>ST ESTEVE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32225,7 +32225,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66280</CP_Structure>
         <Ville_Structure>SALEILLES</Ville_Structure>
-        <Tel_Structure>+33 4 68 34 48 16 </Tel_Structure>
+        <Tel_Structure>+33 4 68 34 48 16</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32247,7 +32247,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66600</CP_Structure>
         <Ville_Structure>RIVESALTES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32262,7 +32262,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66250</CP_Structure>
         <Ville_Structure>ST LAURENT DE LA SALANQUE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32277,7 +32277,7 @@
         <LieuDit_Structure/>
         <CP_Structure>66420</CP_Structure>
         <Ville_Structure>LE BARCARES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32292,7 +32292,7 @@
         <LieuDit_Structure/>
         <CP_Structure>03800</CP_Structure>
         <Ville_Structure>GANNAT</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32307,7 +32307,7 @@
         <LieuDit_Structure/>
         <CP_Structure>31220</CP_Structure>
         <Ville_Structure>CAZERES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32322,7 +32322,7 @@
         <LieuDit_Structure/>
         <CP_Structure>44330</CP_Structure>
         <Ville_Structure>VALLET</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32337,7 +32337,7 @@
         <LieuDit_Structure/>
         <CP_Structure>44260</CP_Structure>
         <Ville_Structure>SAVENAY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32410,7 +32410,7 @@
             <Groupe_Actions>
                 Actions Sociales
                 <Action>Distribution Alimentaire</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
         </Actions_Structure>
@@ -32438,7 +32438,7 @@
     </Structure>
     <Structure>
         <Code_Structure>2659</Code_Structure>
-        <Libelle_Structure>EQUIPE LOCALE DU CROISIC </Libelle_Structure>
+        <Libelle_Structure>EQUIPE LOCALE DU CROISIC</Libelle_Structure>
         <adresse_Structure>Rue du Grand Lin</adresse_Structure>
         <Adresse_Cplt_Structure>Salle du Lin</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -32486,7 +32486,7 @@
         <LieuDit_Structure/>
         <CP_Structure>44420</CP_Structure>
         <Ville_Structure>PIRIAC SUR MER</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32522,7 +32522,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01750</CP_Structure>
         <Ville_Structure>REPLONGES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32537,7 +32537,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01500</CP_Structure>
         <Ville_Structure>AMBERIEU EN BUGEY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32574,13 +32574,13 @@
     </Structure>
     <Structure>
         <Code_Structure>2668</Code_Structure>
-        <Libelle_Structure>EQUIPE LOCALE DE  ST JEAN du GARD</Libelle_Structure>
+        <Libelle_Structure>EQUIPE LOCALE DE ST JEAN du GARD</Libelle_Structure>
         <adresse_Structure>16 Rue de la Lozère</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>30270</CP_Structure>
         <Ville_Structure>ST JEAN DU GARD</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32595,7 +32595,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43220</CP_Structure>
         <Ville_Structure>DUNIERES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32610,7 +32610,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43600</CP_Structure>
         <Ville_Structure>STE SIGOLENE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32625,7 +32625,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43100</CP_Structure>
         <Ville_Structure>BRIOUDE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32640,7 +32640,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43000</CP_Structure>
         <Ville_Structure>LE PUY EN VELAY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32655,7 +32655,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43500</CP_Structure>
         <Ville_Structure>CRAPONNE SUR ARZON</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32670,7 +32670,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43130</CP_Structure>
         <Ville_Structure>RETOURNAC</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32685,7 +32685,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43800</CP_Structure>
         <Ville_Structure>VOREY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32694,13 +32694,13 @@
     </Structure>
     <Structure>
         <Code_Structure>2676</Code_Structure>
-        <Libelle_Structure>ANTENNE LOCALE D'YSSINGEAUX </Libelle_Structure>
+        <Libelle_Structure>ANTENNE LOCALE D'YSSINGEAUX</Libelle_Structure>
         <adresse_Structure>Place du Maréchal de Vaux</adresse_Structure>
         <Adresse_Cplt_Structure>Maison des Solidarités</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>43200</CP_Structure>
         <Ville_Structure>YSSINGEAUX</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32715,7 +32715,7 @@
         <LieuDit_Structure/>
         <CP_Structure>07130</CP_Structure>
         <Ville_Structure>ST PERAY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32730,7 +32730,7 @@
         <LieuDit_Structure/>
         <CP_Structure>07800</CP_Structure>
         <Ville_Structure>LA VOULTE SUR RHONE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32745,7 +32745,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01110</CP_Structure>
         <Ville_Structure>HAUTEVILLE LOMPNES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32781,7 +32781,7 @@
         <LieuDit_Structure/>
         <CP_Structure>46300</CP_Structure>
         <Ville_Structure>GOURDON</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32802,7 +32802,7 @@
         <LieuDit_Structure/>
         <CP_Structure>46700</CP_Structure>
         <Ville_Structure>PUY L EVEQUE</Ville_Structure>
-        <Tel_Structure>+33 5 65 20 12 12 </Tel_Structure>
+        <Tel_Structure>+33 5 65 20 12 12</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32824,7 +32824,7 @@
         <LieuDit_Structure/>
         <CP_Structure>54120</CP_Structure>
         <Ville_Structure>BACCARAT</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32839,7 +32839,7 @@
         <LieuDit_Structure/>
         <CP_Structure>12140</CP_Structure>
         <Ville_Structure>ENTRAYGUES SUR TRUYERE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32854,7 +32854,7 @@
         <LieuDit_Structure/>
         <CP_Structure>12500</CP_Structure>
         <Ville_Structure>ESPALION</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32869,7 +32869,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01480</CP_Structure>
         <Ville_Structure>JASSANS RIOTTIER</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32884,7 +32884,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01330</CP_Structure>
         <Ville_Structure>AMBERIEUX EN DOMBES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32899,7 +32899,7 @@
         <LieuDit_Structure/>
         <CP_Structure>07250</CP_Structure>
         <Ville_Structure>LE POUZIN</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32914,7 +32914,7 @@
         <LieuDit_Structure/>
         <CP_Structure>47120</CP_Structure>
         <Ville_Structure>DURAS</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32944,7 +32944,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01270</CP_Structure>
         <Ville_Structure>COLIGNY</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32959,7 +32959,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01560</CP_Structure>
         <Ville_Structure>ST TRIVIER DE COURTES</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32974,7 +32974,7 @@
         <LieuDit_Structure/>
         <CP_Structure>07150</CP_Structure>
         <Ville_Structure>BESSAS</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -32989,7 +32989,7 @@
         <LieuDit_Structure/>
         <CP_Structure>07120</CP_Structure>
         <Ville_Structure>BALAZUC</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33004,7 +33004,7 @@
         <LieuDit_Structure/>
         <CP_Structure>14400</CP_Structure>
         <Ville_Structure>BAYEUX</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33019,7 +33019,7 @@
         <LieuDit_Structure/>
         <CP_Structure>14500</CP_Structure>
         <Ville_Structure>VIRE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33051,7 +33051,7 @@
         <LieuDit_Structure/>
         <CP_Structure>26260</CP_Structure>
         <Ville_Structure>ST DONAT SUR L HERBASSE</Ville_Structure>
-        <Tel_Structure>+33 4 75 02 00 93 </Tel_Structure>
+        <Tel_Structure>+33 4 75 02 00 93</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33073,7 +33073,7 @@
         <LieuDit_Structure/>
         <CP_Structure>26140</CP_Structure>
         <Ville_Structure>ST RAMBERT D ALBON</Ville_Structure>
-        <Tel_Structure>+33 4 75 08 99 04 </Tel_Structure>
+        <Tel_Structure>+33 4 75 08 99 04</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33094,7 +33094,7 @@
         <LieuDit_Structure/>
         <CP_Structure>26240</CP_Structure>
         <Ville_Structure>ST VALLIER</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33109,7 +33109,7 @@
         <LieuDit_Structure/>
         <CP_Structure>46120</CP_Structure>
         <Ville_Structure>LACAPELLE MARIVAL</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -33244,7 +33244,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3623</Code_Structure>
-        <Libelle_Structure>SAAD MANDATAIRE DE SEINE-MARITIME - ANTENNE DU HAVRE </Libelle_Structure>
+        <Libelle_Structure>SAAD MANDATAIRE DE SEINE-MARITIME - ANTENNE DU HAVRE</Libelle_Structure>
         <adresse_Structure>49 Rue Lestorey de Boulongne</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -33503,7 +33503,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3643</Code_Structure>
-        <Libelle_Structure>MULTI-ACCUEIL TAM-TAM DOUDOUS </Libelle_Structure>
+        <Libelle_Structure>MULTI-ACCUEIL TAM-TAM DOUDOUS</Libelle_Structure>
         <adresse_Structure>Route de Tritteling</adresse_Structure>
         <Adresse_Cplt_Structure>zone industrielle</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -34284,7 +34284,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3693</Code_Structure>
-        <Libelle_Structure>CHUS LES LUPINS </Libelle_Structure>
+        <Libelle_Structure>CHUS LES LUPINS</Libelle_Structure>
         <adresse_Structure>3 Rue des Lupins</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -34699,7 +34699,7 @@
         <LieuDit_Structure/>
         <CP_Structure>98800</CP_Structure>
         <Ville_Structure>NOUMEA</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -35192,7 +35192,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3747</Code_Structure>
-        <Libelle_Structure>CI  PRE VERT </Libelle_Structure>
+        <Libelle_Structure>CI PRE VERT</Libelle_Structure>
         <adresse_Structure>Rue de l'enclume</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35327,7 +35327,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3757</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP LIMOUSIN </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP LIMOUSIN</Libelle_Structure>
         <adresse_Structure>25 Rue Sismondi</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35357,7 +35357,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3759</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP AUVERGNE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP AUVERGNE</Libelle_Structure>
         <adresse_Structure>20 Rue du Vert Galant</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35372,7 +35372,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3761</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP NORD PAS DE CALAIS </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP NORD PAS DE CALAIS</Libelle_Structure>
         <adresse_Structure>Route de Cambrai</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35387,7 +35387,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3762</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP HAUTE NORMANDIE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP HAUTE NORMANDIE</Libelle_Structure>
         <adresse_Structure>Chemin De la BRETEQUE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35417,7 +35417,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3765</Code_Structure>
-        <Libelle_Structure>IRFSS-CRFP CHAMPAGNE ARDENNE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-CRFP CHAMPAGNE ARDENNE</Libelle_Structure>
         <adresse_Structure>20 Cours Eisenhower</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35488,7 +35488,7 @@
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227227473</Siret_Structure>
         <APE_Structure>8899A</APE_Structure>
-        <Activite_Structure>Relais d'assistantes maternelles </Activite_Structure>
+        <Activite_Structure>Relais d'assistantes maternelles</Activite_Structure>
     </Structure>
     <Structure>
         <Code_Structure>3771</Code_Structure>
@@ -35642,7 +35642,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3782</Code_Structure>
-        <Libelle_Structure>MAISON DE REPIT  ET DE SOINS PALLIATIFS L'OASIS</Libelle_Structure>
+        <Libelle_Structure>MAISON DE REPIT ET DE SOINS PALLIATIFS L'OASIS</Libelle_Structure>
         <adresse_Structure>13 bis Place de la Libération</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -35738,7 +35738,7 @@
         <LieuDit_Structure/>
         <CP_Structure>98716</CP_Structure>
         <Ville_Structure>PIRAE</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -35753,7 +35753,7 @@
         <LieuDit_Structure>BP 1707</LieuDit_Structure>
         <CP_Structure>98713</CP_Structure>
         <Ville_Structure>PAPEETE</Ville_Structure>
-        <Tel_Structure>+33  689 46 58 24</Tel_Structure>
+        <Tel_Structure>+33 689 46 58 24</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227200000</Siret_Structure>
@@ -35939,7 +35939,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97400</CP_Structure>
         <Ville_Structure>ST DENIS</Ville_Structure>
-        <Tel_Structure>+33 +330000000 </Tel_Structure>
+        <Tel_Structure>+33 +330000000</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE DIRECTION REGIONALE</Type_Structure>
         <Siret_Structure>77567227229438</Siret_Structure>
@@ -35969,7 +35969,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97310</CP_Structure>
         <Ville_Structure>KOUROU</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE DIRECTION REGIONALE</Type_Structure>
         <Siret_Structure>77567227229412</Siret_Structure>
@@ -35993,7 +35993,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3809</Code_Structure>
-        <Libelle_Structure>IRFSS-FPQ PICARDIE </Libelle_Structure>
+        <Libelle_Structure>IRFSS-FPQ PICARDIE</Libelle_Structure>
         <adresse_Structure>5 Rue des Francs Mûriers</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -36346,7 +36346,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3833</Code_Structure>
-        <Libelle_Structure>MULTI-ACCUEIL  LES PETITS DE L'OLYMPE</Libelle_Structure>
+        <Libelle_Structure>MULTI-ACCUEIL LES PETITS DE L'OLYMPE</Libelle_Structure>
         <adresse_Structure>Place Alain Bernard</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -36617,7 +36617,7 @@
         <LieuDit_Structure/>
         <CP_Structure>75011</CP_Structure>
         <Ville_Structure>PARIS 11</Ville_Structure>
-        <Tel_Structure>+33 </Tel_Structure>
+        <Tel_Structure>+33</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227230147</Siret_Structure>
@@ -36686,7 +36686,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3852</Code_Structure>
-        <Libelle_Structure>MECS  LES FILAOS  - ANTENNE ST PAUL</Libelle_Structure>
+        <Libelle_Structure>MECS LES FILAOS - ANTENNE ST PAUL</Libelle_Structure>
         <adresse_Structure>152 Rue Marius et Ary Leblond</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -36701,7 +36701,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3853</Code_Structure>
-        <Libelle_Structure>MECS  LES FILAOS  - ANTENNE LA POSSESSION</Libelle_Structure>
+        <Libelle_Structure>MECS LES FILAOS - ANTENNE LA POSSESSION</Libelle_Structure>
         <adresse_Structure>36-38 Rue Guillaume Apollinaire</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -36716,7 +36716,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3854</Code_Structure>
-        <Libelle_Structure>MECS  LES FILAOS  - ANTENNE TAN ROUGE</Libelle_Structure>
+        <Libelle_Structure>MECS LES FILAOS - ANTENNE TAN ROUGE</Libelle_Structure>
         <adresse_Structure>150 Chemin Crescence</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure>TAN ROUGE</LieuDit_Structure>
@@ -36731,7 +36731,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3855</Code_Structure>
-        <Libelle_Structure>MECS  LES FILAOS  - ANTENNE DES TROIS BASSINS</Libelle_Structure>
+        <Libelle_Structure>MECS LES FILAOS - ANTENNE DES TROIS BASSINS</Libelle_Structure>
         <adresse_Structure>2 Rue des Amaryllis</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -36971,7 +36971,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3873</Code_Structure>
-        <Libelle_Structure>ESPACE DE PORTE DE LA  DOMBES</Libelle_Structure>
+        <Libelle_Structure>ESPACE DE PORTE DE LA DOMBES</Libelle_Structure>
         <adresse_Structure>82 Grande Rue</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -37084,7 +37084,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3878</Code_Structure>
-        <Libelle_Structure>MAISON  DE L'OUEST LYONNAIS</Libelle_Structure>
+        <Libelle_Structure>MAISON DE L'OUEST LYONNAIS</Libelle_Structure>
         <adresse_Structure>52 Rue DE RONDE</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -37215,7 +37215,7 @@
             <Groupe_Actions>
                 Actions Sociales
                 <Action>Actions auprès des personnes âgées</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
             </Groupe_Actions>
             <Groupe_Actions>
                 Urgence et Secourisme
@@ -37418,7 +37418,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43120</CP_Structure>
         <Ville_Structure>MONISTROL SUR LOIRE</Ville_Structure>
-        <Tel_Structure> 04 71 59 74 20</Tel_Structure>
+        <Tel_Structure>04 71 59 74 20</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227201197</Siret_Structure>
@@ -37433,7 +37433,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43200</CP_Structure>
         <Ville_Structure>YSSINGEAUX</Ville_Structure>
-        <Tel_Structure> 04 71 59 74 20</Tel_Structure>
+        <Tel_Structure>04 71 59 74 20</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227201197</Siret_Structure>
@@ -37502,7 +37502,7 @@
     </Structure>
     <Structure>
         <Code_Structure>3899</Code_Structure>
-        <Libelle_Structure>IRFSS-FPQ BASSE NORMANDIE - ALENCON </Libelle_Structure>
+        <Libelle_Structure>IRFSS-FPQ BASSE NORMANDIE - ALENCON</Libelle_Structure>
         <adresse_Structure>5 Rue du Gué de Gesnes</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -37598,7 +37598,7 @@
         <LieuDit_Structure/>
         <CP_Structure>56610</CP_Structure>
         <Ville_Structure>ARRADON</Ville_Structure>
-        <Tel_Structure>+33 2 97 47 38 99 </Tel_Structure>
+        <Tel_Structure>+33 2 97 47 38 99</Tel_Structure>
         <Web_Structure>irfss-bretagne.croix-rouge.fr</Web_Structure>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227219215</Siret_Structure>
@@ -37733,7 +37733,7 @@
         <LieuDit_Structure/>
         <CP_Structure>92230</CP_Structure>
         <Ville_Structure>GENNEVILLIERS</Ville_Structure>
-        <Tel_Structure>+33 1 47 92 22 65 </Tel_Structure>
+        <Tel_Structure>+33 1 47 92 22 65</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231087</Siret_Structure>
@@ -37763,7 +37763,7 @@
         <LieuDit_Structure/>
         <CP_Structure>13200</CP_Structure>
         <Ville_Structure>ARLES</Ville_Structure>
-        <Tel_Structure> 4 91 15 71 72 </Tel_Structure>
+        <Tel_Structure>4 91 15 71 72</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231020</Siret_Structure>
@@ -37859,7 +37859,7 @@
         <LieuDit_Structure/>
         <CP_Structure>57800</CP_Structure>
         <Ville_Structure>FREYMING MERLEBACH</Ville_Structure>
-        <Tel_Structure> 06 86 64 80 29</Tel_Structure>
+        <Tel_Structure>06 86 64 80 29</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -37898,7 +37898,7 @@
         <LieuDit_Structure/>
         <CP_Structure>67200</CP_Structure>
         <Ville_Structure>STRASBOURG</Ville_Structure>
-        <Tel_Structure> 0390225665</Tel_Structure>
+        <Tel_Structure>0390225665</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231574</Siret_Structure>
@@ -37913,7 +37913,7 @@
         <LieuDit_Structure/>
         <CP_Structure>43200</CP_Structure>
         <Ville_Structure>YSSINGEAUX</Ville_Structure>
-        <Tel_Structure>+33 4 71 56 00 72 </Tel_Structure>
+        <Tel_Structure>+33 4 71 56 00 72</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231277</Siret_Structure>
@@ -37943,7 +37943,7 @@
         <LieuDit_Structure/>
         <CP_Structure>08400</CP_Structure>
         <Ville_Structure>VOUZIERS</Ville_Structure>
-        <Tel_Structure> 0324308169</Tel_Structure>
+        <Tel_Structure>0324308169</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231301</Siret_Structure>
@@ -38063,7 +38063,7 @@
         <LieuDit_Structure/>
         <CP_Structure>62130</CP_Structure>
         <Ville_Structure>ST POL SUR TERNOISE</Ville_Structure>
-        <Tel_Structure>+33 3 21 03 16 60 </Tel_Structure>
+        <Tel_Structure>+33 3 21 03 16 60</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -38173,7 +38173,7 @@
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -38198,7 +38198,7 @@
         <LieuDit_Structure/>
         <CP_Structure>16100</CP_Structure>
         <Ville_Structure>COGNAC</Ville_Structure>
-        <Tel_Structure>+33 5 45 36 51 82 </Tel_Structure>
+        <Tel_Structure>+33 5 45 36 51 82</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -38320,7 +38320,7 @@
         <LieuDit_Structure/>
         <CP_Structure>01280</CP_Structure>
         <Ville_Structure>PREVESSIN MOENS</Ville_Structure>
-        <Tel_Structure>+33 4 50 42 40 35 </Tel_Structure>
+        <Tel_Structure>+33 4 50 42 40 35</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -38336,7 +38336,7 @@
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
                 <Action>Epicerie Sociale</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Vestiaire</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -38660,7 +38660,7 @@
     <Structure>
         <Code_Structure>3952</Code_Structure>
         <Libelle_Structure>MAISON VINCENNES - ST MANDE</Libelle_Structure>
-        <adresse_Structure>25 Rue  DE LAGNY</adresse_Structure>
+        <adresse_Structure>25 Rue DE LAGNY</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>94300</CP_Structure>
@@ -38894,7 +38894,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97400</CP_Structure>
         <Ville_Structure>ST DENIS</Ville_Structure>
-        <Tel_Structure>+33 262 90 96 60 </Tel_Structure>
+        <Tel_Structure>+33 262 90 96 60</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>DELEGATION TERRITORIALE</Type_Structure>
         <Siret_Structure>77567227229669</Siret_Structure>
@@ -38970,7 +38970,7 @@
         <LieuDit_Structure/>
         <CP_Structure>40230</CP_Structure>
         <Ville_Structure>ST VINCENT DE TYROSSE</Ville_Structure>
-        <Tel_Structure>+33 5 58 77 08 50 </Tel_Structure>
+        <Tel_Structure>+33 5 58 77 08 50</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>UNITE LOCALE</Type_Structure>
         <Siret_Structure>77567227225923</Siret_Structure>
@@ -38982,7 +38982,7 @@
                 <Action>Accueil de jour (espace solidarité)</Action>
                 <Action>Distribution Alimentaire</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
             </Groupe_Actions>
             <Groupe_Actions>
@@ -39811,7 +39811,7 @@
         <LieuDit_Structure/>
         <CP_Structure>94290</CP_Structure>
         <Ville_Structure>VILLENEUVE LE ROI</Ville_Structure>
-        <Tel_Structure> 09 64 46 15 87</Tel_Structure>
+        <Tel_Structure>09 64 46 15 87</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231400</Siret_Structure>
@@ -40327,7 +40327,7 @@
         <LieuDit_Structure/>
         <CP_Structure>04100</CP_Structure>
         <Ville_Structure>MANOSQUE</Ville_Structure>
-        <Tel_Structure>+33 4 92 71 17 47 </Tel_Structure>
+        <Tel_Structure>+33 4 92 71 17 47</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -40369,7 +40369,7 @@
                 <Action>Aides financières</Action>
                 <Action>Autres aides en nature</Action>
                 <Action>Distribution de chèques</Action>
-                <Action>Promotion de la santé et du bien être </Action>
+                <Action>Promotion de la santé et du bien être</Action>
                 <Action>Samu Social et équipe mobile</Action>
                 <Action>Vestiboutique</Action>
             </Groupe_Actions>
@@ -40637,7 +40637,7 @@
         <LieuDit_Structure/>
         <CP_Structure>65300</CP_Structure>
         <Ville_Structure>LANNEMEZAN</Ville_Structure>
-        <Tel_Structure>+33 5 62 40 26 67 </Tel_Structure>
+        <Tel_Structure>+33 5 62 40 26 67</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -40741,7 +40741,7 @@
         <LieuDit_Structure/>
         <CP_Structure>83170</CP_Structure>
         <Ville_Structure>BRIGNOLES</Ville_Structure>
-        <Tel_Structure> 4 94 69 54 96</Tel_Structure>
+        <Tel_Structure>4 94 69 54 96</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure>77567227223548</Siret_Structure>
@@ -40883,7 +40883,7 @@
         <LieuDit_Structure>PARC DU CIGALOU</LieuDit_Structure>
         <CP_Structure>83230</CP_Structure>
         <Ville_Structure>BORMES LES MIMOSAS</Ville_Structure>
-        <Tel_Structure>+33 4.94.24.12.56 </Tel_Structure>
+        <Tel_Structure>+33 4.94.24.12.56</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -41172,7 +41172,7 @@
         <LieuDit_Structure/>
         <CP_Structure>09300</CP_Structure>
         <Ville_Structure>LAVELANET</Ville_Structure>
-        <Tel_Structure> 09 66 41 07 45</Tel_Structure>
+        <Tel_Structure>09 66 41 07 45</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231384</Siret_Structure>
@@ -41420,7 +41420,7 @@
     <Structure>
         <Code_Structure>4038</Code_Structure>
         <Libelle_Structure>ANTENNE LOCALE DE RAON L'ETAPE</Libelle_Structure>
-        <adresse_Structure>17 Rue  DU GENERAL LECLERC</adresse_Structure>
+        <adresse_Structure>17 Rue DU GENERAL LECLERC</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>88110</CP_Structure>
@@ -41595,7 +41595,7 @@
         <LieuDit_Structure/>
         <CP_Structure>87440</CP_Structure>
         <Ville_Structure>ST MATHIEU</Ville_Structure>
-        <Tel_Structure> 05 55 00 82 40</Tel_Structure>
+        <Tel_Structure>05 55 00 82 40</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231426</Siret_Structure>
@@ -42048,7 +42048,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97460</CP_Structure>
         <Ville_Structure>ST PAUL</Ville_Structure>
-        <Tel_Structure>+33 262 45 50 14 </Tel_Structure>
+        <Tel_Structure>+33 262 45 50 14</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -42226,7 +42226,7 @@
         <LieuDit_Structure/>
         <CP_Structure>14110</CP_Structure>
         <Ville_Structure>CONDE SUR NOIREAU</Ville_Structure>
-        <Tel_Structure> 02 31 69 08 95</Tel_Structure>
+        <Tel_Structure>02 31 69 08 95</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231582</Siret_Structure>
@@ -42241,7 +42241,7 @@
         <LieuDit_Structure/>
         <CP_Structure>64000</CP_Structure>
         <Ville_Structure>PAU</Ville_Structure>
-        <Tel_Structure> 05 59 62 59 42</Tel_Structure>
+        <Tel_Structure>05 59 62 59 42</Tel_Structure>
         <Web_Structure>irfss-aquitaine.croix-rouge.fr</Web_Structure>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -42256,7 +42256,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97310</CP_Structure>
         <Ville_Structure>KOUROU</Ville_Structure>
-        <Tel_Structure> 06 94 38 09 99</Tel_Structure>
+        <Tel_Structure>06 94 38 09 99</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231665</Siret_Structure>
@@ -42292,7 +42292,7 @@
         <LieuDit_Structure/>
         <CP_Structure>76190</CP_Structure>
         <Ville_Structure>YVETOT</Ville_Structure>
-        <Tel_Structure> 2 35 56 20 49</Tel_Structure>
+        <Tel_Structure>2 35 56 20 49</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure>77567227230774</Siret_Structure>
@@ -42429,7 +42429,7 @@
         <LieuDit_Structure/>
         <CP_Structure>84310</CP_Structure>
         <Ville_Structure>MORIERES LES AVIGNON</Ville_Structure>
-        <Tel_Structure> 04 90 33 58 70</Tel_Structure>
+        <Tel_Structure>04 90 33 58 70</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -42490,7 +42490,7 @@
         <LieuDit_Structure/>
         <CP_Structure>24260</CP_Structure>
         <Ville_Structure>LE BUGUE</Ville_Structure>
-        <Tel_Structure>+33 5 53 07 43 94 </Tel_Structure>
+        <Tel_Structure>+33 5 53 07 43 94</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>IMPLANTATION LOCALE</Type_Structure>
         <Siret_Structure/>
@@ -42635,7 +42635,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97605</CP_Structure>
         <Ville_Structure>MAMOUDZOU</Ville_Structure>
-        <Tel_Structure> 0269632039</Tel_Structure>
+        <Tel_Structure>0269632039</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231731</Siret_Structure>
@@ -42782,7 +42782,7 @@
     </Structure>
     <Structure>
         <Code_Structure>4096</Code_Structure>
-        <Libelle_Structure>Equipe Locale DE  BELLEY</Libelle_Structure>
+        <Libelle_Structure>Equipe Locale DE BELLEY</Libelle_Structure>
         <adresse_Structure>Avenue Hoff</adresse_Structure>
         <Adresse_Cplt_Structure>Caserne Dallemagne</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
@@ -43128,8 +43128,8 @@
     <Structure>
         <Code_Structure>4112</Code_Structure>
         <Libelle_Structure>Equipe Locale DE LAPALISSE</Libelle_Structure>
-        <adresse_Structure>Avenue  Charles de Gaulle</adresse_Structure>
-        <Adresse_Cplt_Structure>Maison des Associations </Adresse_Cplt_Structure>
+        <adresse_Structure>Avenue Charles de Gaulle</adresse_Structure>
+        <Adresse_Cplt_Structure>Maison des Associations</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>03120</CP_Structure>
         <Ville_Structure>LAPALISSE</Ville_Structure>
@@ -43159,7 +43159,7 @@
         <LieuDit_Structure/>
         <CP_Structure>81400</CP_Structure>
         <Ville_Structure>CARMAUX</Ville_Structure>
-        <Tel_Structure> 06 14 04 80 68</Tel_Structure>
+        <Tel_Structure>06 14 04 80 68</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231889</Siret_Structure>
@@ -43169,7 +43169,7 @@
     <Structure>
         <Code_Structure>4114</Code_Structure>
         <Libelle_Structure>Equipe Locale DU PAYS D'ORTHE</Libelle_Structure>
-        <adresse_Structure>410 Route  DU POURTAOU</adresse_Structure>
+        <adresse_Structure>410 Route DU POURTAOU</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>40300</CP_Structure>
@@ -43340,7 +43340,7 @@
         <LieuDit_Structure/>
         <CP_Structure>89500</CP_Structure>
         <Ville_Structure>VILLENEUVE SUR YONNE</Ville_Structure>
-        <Tel_Structure> 03 86 87 61 00</Tel_Structure>
+        <Tel_Structure>03 86 87 61 00</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231335</Siret_Structure>
@@ -43478,7 +43478,7 @@
     <Structure>
         <Code_Structure>4127</Code_Structure>
         <Libelle_Structure>Equipe Locale DE BOLBEC</Libelle_Structure>
-        <adresse_Structure>1417  Cité SCHWOB</adresse_Structure>
+        <adresse_Structure>1417 Cité SCHWOB</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>76210</CP_Structure>
@@ -43624,7 +43624,7 @@
         <LieuDit_Structure/>
         <CP_Structure>38100</CP_Structure>
         <Ville_Structure>GRENOBLE</Ville_Structure>
-        <Tel_Structure> 04 76 49 01 63</Tel_Structure>
+        <Tel_Structure>04 76 49 01 63</Tel_Structure>
         <Web_Structure>irfss-rhone-alpes.croix-rouge.fr</Web_Structure>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231491</Siret_Structure>
@@ -43861,7 +43861,7 @@
         <Code_Structure>4143</Code_Structure>
         <Libelle_Structure>Equipe Locale DE VILLENEUVE LOUBET</Libelle_Structure>
         <adresse_Structure>450 Avenue ANTONY FABRE</adresse_Structure>
-        <Adresse_Cplt_Structure>BATIMENT A - LES ESPERES </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>BATIMENT A - LES ESPERES</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>06270</CP_Structure>
         <Ville_Structure>VILLENEUVE LOUBET</Ville_Structure>
@@ -44013,7 +44013,7 @@
         <Code_Structure>4149</Code_Structure>
         <Libelle_Structure>Equipe Locale DE NOTRE DAME DE GRAVENCHON</Libelle_Structure>
         <adresse_Structure>NULL</adresse_Structure>
-        <Adresse_Cplt_Structure>Centre commercial république2  </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>Centre commercial république2</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>76330</CP_Structure>
         <Ville_Structure>NOTRE DAME DE GRAVENCHON</Ville_Structure>
@@ -44076,7 +44076,7 @@
         <LieuDit_Structure/>
         <CP_Structure>08600</CP_Structure>
         <Ville_Structure>GIVET</Ville_Structure>
-        <Tel_Structure> 03 24 42 09 65</Tel_Structure>
+        <Tel_Structure>03 24 42 09 65</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227230998</Siret_Structure>
@@ -44223,7 +44223,7 @@
         <Code_Structure>4159</Code_Structure>
         <Libelle_Structure>Equipe Locale DE SAINT ETIENNE DE CHIGNY</Libelle_Structure>
         <adresse_Structure>NULL</adresse_Structure>
-        <Adresse_Cplt_Structure>Salle Jean Binet </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>Salle Jean Binet</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>37230</CP_Structure>
         <Ville_Structure>ST ETIENNE DE CHIGNY</Ville_Structure>
@@ -44294,7 +44294,7 @@
     </Structure>
     <Structure>
         <Code_Structure>4162</Code_Structure>
-        <Libelle_Structure>Equipe Locale DE  MORET SUR LOING</Libelle_Structure>
+        <Libelle_Structure>Equipe Locale DE MORET SUR LOING</Libelle_Structure>
         <adresse_Structure>2 Rue du Clos BLANCHET</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
@@ -44704,12 +44704,12 @@
     <Structure>
         <Code_Structure>4178</Code_Structure>
         <Libelle_Structure>IRFSS-FI IDF - DRANCY</Libelle_Structure>
-        <adresse_Structure>12 Rue Louis  Delplace</adresse_Structure>
+        <adresse_Structure>12 Rue Louis Delplace</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>93700</CP_Structure>
         <Ville_Structure>DRANCY</Ville_Structure>
-        <Tel_Structure> 01 41 60 21 30</Tel_Structure>
+        <Tel_Structure>01 41 60 21 30</Tel_Structure>
         <Web_Structure>irfss-idf.croix-rouge.fr</Web_Structure>
         <Type_Structure>ANTENNE D'ETABLISSEMENT</Type_Structure>
         <Siret_Structure/>
@@ -44807,7 +44807,7 @@
         <Code_Structure>4183</Code_Structure>
         <Libelle_Structure>Equipe Locale D' OYE-PLAGE</Libelle_Structure>
         <adresse_Structure>Avenue Paul Machy</adresse_Structure>
-        <Adresse_Cplt_Structure>Maison de la solidarité </Adresse_Cplt_Structure>
+        <Adresse_Cplt_Structure>Maison de la solidarité</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>62215</CP_Structure>
         <Ville_Structure>OYE PLAGE</Ville_Structure>
@@ -44912,7 +44912,7 @@
     <Structure>
         <Code_Structure>4188</Code_Structure>
         <Libelle_Structure>Equipe Locale DE LIEVIN</Libelle_Structure>
-        <adresse_Structure>128 BIS  Avenue Jean Jaurès</adresse_Structure>
+        <adresse_Structure>128 BIS Avenue Jean Jaurès</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>62800</CP_Structure>
@@ -45336,7 +45336,7 @@
     <Structure>
         <Code_Structure>4206</Code_Structure>
         <Libelle_Structure>EHPA NOTRE MAISON</Libelle_Structure>
-        <adresse_Structure>640  Avenue DE MAZARGUES</adresse_Structure>
+        <adresse_Structure>640 Avenue DE MAZARGUES</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>13008</CP_Structure>
@@ -45384,7 +45384,7 @@
         <LieuDit_Structure/>
         <CP_Structure>09300</CP_Structure>
         <Ville_Structure>LAVELANET</Ville_Structure>
-        <Tel_Structure> 06 03 06 82 91</Tel_Structure>
+        <Tel_Structure>06 03 06 82 91</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231871</Siret_Structure>
@@ -45415,7 +45415,7 @@
     <Structure>
         <Code_Structure>4210</Code_Structure>
         <Libelle_Structure>Equipe Locale DE BOULAY</Libelle_Structure>
-        <adresse_Structure>8 Rue  DU GENERAL NEWINGER</adresse_Structure>
+        <adresse_Structure>8 Rue DU GENERAL NEWINGER</adresse_Structure>
         <Adresse_Cplt_Structure>MAISON DES ASSOCIATIONS</Adresse_Cplt_Structure>
         <LieuDit_Structure/>
         <CP_Structure>57220</CP_Structure>
@@ -45770,7 +45770,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97605</CP_Structure>
         <Ville_Structure>MAMOUDZOU</Ville_Structure>
-        <Tel_Structure> 0269632039</Tel_Structure>
+        <Tel_Structure>0269632039</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231947</Siret_Structure>
@@ -45785,7 +45785,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97605</CP_Structure>
         <Ville_Structure>MAMOUDZOU</Ville_Structure>
-        <Tel_Structure> 0269632039</Tel_Structure>
+        <Tel_Structure>0269632039</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231954</Siret_Structure>
@@ -45800,7 +45800,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97250</CP_Structure>
         <Ville_Structure>ST PIERRE</Ville_Structure>
-        <Tel_Structure> 0596970824</Tel_Structure>
+        <Tel_Structure>0596970824</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231921</Siret_Structure>
@@ -45815,7 +45815,7 @@
         <LieuDit_Structure/>
         <CP_Structure>97139</CP_Structure>
         <Ville_Structure>LES ABYMES</Ville_Structure>
-        <Tel_Structure> 0590821221</Tel_Structure>
+        <Tel_Structure>0590821221</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>77567227231939</Siret_Structure>
@@ -46178,7 +46178,7 @@
         <LieuDit_Structure/>
         <CP_Structure>21000</CP_Structure>
         <Ville_Structure>DIJON</Ville_Structure>
-        <Tel_Structure> 0674762379</Tel_Structure>
+        <Tel_Structure>0674762379</Tel_Structure>
         <Web_Structure/>
         <Type_Structure>ETABLISSEMENT</Type_Structure>
         <Siret_Structure>775672272</Siret_Structure>
@@ -46323,7 +46323,7 @@
     <Structure>
         <Code_Structure>4257</Code_Structure>
         <Libelle_Structure>Equipe Locale DE CHATEAUNEUF</Libelle_Structure>
-        <adresse_Structure>Place  du 8 Mai 1945</adresse_Structure>
+        <adresse_Structure>Place du 8 Mai 1945</adresse_Structure>
         <Adresse_Cplt_Structure/>
         <LieuDit_Structure/>
         <CP_Structure>16120</CP_Structure>
