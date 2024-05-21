@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Structures>
+  <Structure>
+    <Libellé>DD DE L'ILLE-ET-VILAINE</Libellé>
+    <CP>35000</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>ESPACE DE FOUGERES</Libellé>
+    <CP>35300</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>MAISON DE REDON</Libellé>
+    <CP>35600</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>MAISON DE RENNES</Libellé>
+    <CP>35000</CP>
+    <Web_Structure>rennes.croix-rouge.fr</Web_Structure>
+  </Structure>
+  <Structure>
+    <Libellé>ESPACE DE SAINT AUBIN D'AUBIGNE</Libellé>
+    <CP>35270</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>MAISON DE SAINT MALO</Libellé>
+    <CP>35400</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>ESPACE DE VITRE</Libellé>
+    <CP>35500</CP>
+    <Web_Structure>vitre.croix-rouge.fr</Web_Structure>
+  </Structure>
+  <Structure>
+    <Libellé>DR DE BRETAGNE</Libellé>
+    <CP>35000</CP>
+    <Web_Structure />
+  </Structure>
+  <Structure>
+    <Libellé>IRFSS-CRFP BRETAGNE</Libellé>
+    <CP>35000</CP>
+    <Web_Structure>irfss-bretagne.croix-rouge.fr</Web_Structure>
+  </Structure>
+  <Structure>
+    <Libellé>IRFSS-CRFP BRETAGNE - RENNES</Libellé>
+    <CP>35000</CP>
+    <Web_Structure>irfss-bretagne.croix-rouge.fr</Web_Structure>
+  </Structure>
+  <Structure>
+    <Libellé>IRFSS-FI BRETAGNE - RENNES</Libellé>
+    <CP>35000</CP>
+    <Web_Structure>irfss-bretagne.croix-rouge.fr</Web_Structure>
+  </Structure>
+</Structures>
