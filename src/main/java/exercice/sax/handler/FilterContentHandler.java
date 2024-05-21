@@ -1,7 +1,9 @@
-package exo2_sax.handler;
+package exercice.sax.handler;
 
-import exo2_sax.generic.Adapter;
-import exo2_sax.generic.Structure;
+import generic.Adapter;
+import generic.classes.Structure;
+import exercice.sax.handler.global.BasicHandler;
+import exercice.sax.handler.global.Handleable;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
@@ -12,8 +14,10 @@ import java.util.List;
 
 @Getter
 @Setter
-public class SimpleContentHandler extends BasicHandler {
-    private final List<Structure> structures = new ArrayList<>();
+public class FilterContentHandler extends BasicHandler implements Handleable<List<Structure>> {
+    @Getter(AccessLevel.NONE)
+    private final List<Structure> list = new ArrayList<>();
+
     private Adapter adapter = new Adapter();
 
     @Getter(AccessLevel.NONE)
@@ -68,7 +72,7 @@ public class SimpleContentHandler extends BasicHandler {
     public void endElement(String nameSpaceURI, String localName, String rawName) {
         if (rawName.equals("Structure")) {
             if (isPostalCodeValid()) {
-                adapter.add(structures, structure);
+                adapter.add(list, structure);
                 setPostalCodeValid(false);
             }
 
@@ -86,5 +90,9 @@ public class SimpleContentHandler extends BasicHandler {
         if (rawName.equals("Web_Structure")) {
             setWebStructure(false);
         }
+    }
+
+    public List<Structure> getObject() {
+        return list;
     }
 }

@@ -1,4 +1,4 @@
-package exo2_sax.generic;
+package generic.classes;
 
 import lombok.Getter;
 import lombok.Setter;

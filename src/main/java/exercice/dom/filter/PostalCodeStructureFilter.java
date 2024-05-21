@@ -1,4 +1,4 @@
-package exo2_dom.filter;
+package exercice.dom.filter;
 
 import org.jdom2.Element;
 import org.jdom2.filter.ElementFilter;

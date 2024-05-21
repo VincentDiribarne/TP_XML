@@ -1,4 +1,4 @@
-package exo2_sax.handler;
+package exercice.sax.handler.global;
 
 import lombok.Getter;
 import org.xml.sax.ContentHandler;
@@ -41,7 +41,7 @@ public abstract class BasicHandler implements ContentHandler {
     }
 
     @Override
-    public void ignorableWhitespace(char[] ch, int start, int end) throws SAXException {
+    public void ignorableWhitespace(char[] ch, int start, int end) {
         System.out.println("espaces inutiles rencontres : ..." + new String(ch, start, end) + "...");
     }
 

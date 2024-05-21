@@ -1,7 +1,7 @@
-package exo2_dom;
+package exercice.dom;
 
-import exo2_dom.filter.PostalCodeStructureFilter;
-import exo2_dom.filter.StructureFilter;
+import exercice.dom.filter.PostalCodeStructureFilter;
+import exercice.dom.filter.StructureFilter;
 import org.jdom2.Document;
 import org.jdom2.Element;
 import org.jdom2.input.SAXBuilder;
@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SAX {
+public class DOM {
     private final List<Element> postalStructureFilterList = new ArrayList<>();
     private List<Element> childElements = new ArrayList<>();
 
@@ -23,7 +23,7 @@ public class SAX {
         Document document = null;
 
         try {
-            document = sxb.build(new File("src/main/java/exercice2/xml/CroixRouge.xml"));
+            document = sxb.build(new File("src/main/java/xml/CroixRouge.xml"));
         } catch (Exception e) {
             System.out.println("Erreur : " + e.getMessage());
         }
@@ -69,7 +69,7 @@ public class SAX {
             root.addContent(child);
         });
 
-        save(new Document(root), "src/main/java/exercice2/xml/CroixRougeFiltré.xml");
+        save(new Document(root), "src/main/java/xml/CroixRougeDomExercice1.xml");
     }
 
     private String getProperties(String properties) {
