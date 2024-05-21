@@ -36,7 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
-.idea/*
+.idea/
 
 /src/main/java/xml/CroixRougeSaxExercice1.xml
 /src/main/java/xml/CroixRougeSaxExercice2.xml
