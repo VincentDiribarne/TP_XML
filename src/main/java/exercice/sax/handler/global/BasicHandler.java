@@ -3,7 +3,6 @@ package exercice.sax.handler.global;
 import lombok.Getter;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.Locator;
-import org.xml.sax.SAXException;
 import org.xml.sax.helpers.LocatorImpl;
 
 @Getter
